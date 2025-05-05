@@ -1,4 +1,4 @@
-# cudaAtScaleForTheEnterprise
+# Project-Sobel-Filter
 Repository for coursera class "CUDA at Scale for the Enterprise"
 
 The independent project for module 5 is under project_sobel_filter folder that demonstrate how to do Sobel filter using NVIDIA Performance Primitive (NPP) library.
